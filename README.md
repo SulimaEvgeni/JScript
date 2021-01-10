@@ -1,3 +1,3 @@
 # JScript
 
-update my project
+first update my project
